@@ -1,0 +1,4 @@
+main: me.xsystems.ggwave.GGWave
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
